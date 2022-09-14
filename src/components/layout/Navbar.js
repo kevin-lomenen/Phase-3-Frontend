@@ -9,6 +9,8 @@ function Navbar() {
       </Menu.Item>
       <Menu.Item as={Link} to="/" content="Home" />
       <Menu.Item as={NavLink} to="/recipes" content="Recipes" />
+      <Menu.Item as={NavLink} to="/signup" content="Sign Up" />
+      <Menu.Item as={NavLink} to="/login" content="Login" />
     </Menu>
   );
 }
