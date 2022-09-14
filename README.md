@@ -5,6 +5,8 @@ This is still in development stage and some functionalities might not work as ex
 Developed by Allan Kiprop, Software Engineering student at Moringa School, Kenya.
 Reach me via allan.kiprop@student.moringaschool.com
 
+Back end repo link for this project : https://github.com/sang-4/phase-3-sinatra-react-project
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
