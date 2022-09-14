@@ -17,12 +17,12 @@ function Search(props) {
       <Grid.Column>
         <h2 className="search-heading">
           Search Recipes With{" "}
-          <span style={{ color: "#ff3333" }}>Food2Fork</span>
+          <span style={{ color: "#ff3333" }}>KSAFoods Ke</span>
         </h2>
-        <h4>Type Recipes Separated By Comma</h4>
+        <h4>Type Recipes here, remember to separate them with a ","</h4>
         <Form onSubmit={handleSubmit}>
           <Input
-            placeholder="chicken,onion,carrots"
+            placeholder="viungo"
             action={{ icon: "search", color: "blue" }}
             fluid
             onChange={handleChange}
