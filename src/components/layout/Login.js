@@ -1,13 +1,11 @@
-import React from 'react'
+import React from 'react';
 
-
-
-function Login (){
+ function Login(){
     return (
       <form>
-        <h3>Log In</h3>
+        <h3>Sign In</h3>
         <div className="mb-3">
-          <label>Email</label>
+          <label>Email address</label>
           <input
             type="email"
             className="form-control"
@@ -19,7 +17,7 @@ function Login (){
           <input
             type="password"
             className="form-control"
-            placeholder="***********"
+            placeholder="Enter password"
           />
         </div>
         <div className="mb-3">
@@ -45,4 +43,5 @@ function Login (){
       </form>
     )
   }
- export default Login;
+
+  export default Login
