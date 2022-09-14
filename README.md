@@ -1,3 +1,12 @@
+This is a webapp that allows one to add, delete, update and view multiple food recipes. Front end is done with react and Ruby/Sinatra for the backend,
+
+This is still in development stage and some functionalities might not work as expected but I hope to have everything up and running right. 
+
+Developed by Allan Kiprop, Software Engineering student at Moringa School, Kenya.
+Reach me via allan.kiprop@student.moringaschool.com
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
