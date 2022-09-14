@@ -1,11 +1,13 @@
-import React, { Component } from 'react'
-export default class Login extends Component {
-  render() {
+import React from 'react'
+
+
+
+function Login (){
     return (
       <form>
-        <h3>Sign In</h3>
+        <h3>Log In</h3>
         <div className="mb-3">
-          <label>Email address</label>
+          <label>Email</label>
           <input
             type="email"
             className="form-control"
@@ -17,7 +19,7 @@ export default class Login extends Component {
           <input
             type="password"
             className="form-control"
-            placeholder="Enter password"
+            placeholder="***********"
           />
         </div>
         <div className="mb-3">
@@ -43,4 +45,4 @@ export default class Login extends Component {
       </form>
     )
   }
-}
+ export default Login;
