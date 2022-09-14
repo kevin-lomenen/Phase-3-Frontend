@@ -18,7 +18,6 @@ function RecipeDetails(props) {
       }
     };
     getRecipe();
-    //eslint-disable-next-line
   }, []);
 
   if (state.recipe) {
