@@ -1,1 +1,1 @@
-export const RECIPE_API = 'https://forkify-api.herokuapp.com/api';
+export const RECIPE_API = 'https://secret-ravine-40551.herokuapp.com/recipes';
