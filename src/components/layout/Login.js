@@ -5,7 +5,7 @@ import React from 'react';
       <form>
         <h3>Sign In</h3>
         <div className="mb-3">
-          <label>Email address</label>
+          <label>Email</label>
           <input
             type="email"
             className="form-control"
@@ -37,7 +37,7 @@ import React from 'react';
             Submit
           </button>
         </div>
-        <p className="forgot-password text-right">
+        <p className="forgot-password">
           Forgot <a href="#">password?</a>
         </p>
       </form>
