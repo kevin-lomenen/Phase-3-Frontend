@@ -2,7 +2,7 @@ import React from 'react';
 
  function Login(){
     return (
-      <form>
+      <form classname ="d-page">
         <h3>Sign In</h3>
         <div className="mb-3">
           <label>Email</label>
